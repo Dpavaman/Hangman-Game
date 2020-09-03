@@ -1,7 +1,7 @@
 # Hangman-Game
 #### Hangman Game is a word guessing game which gradually sets up to hang the man on every wrong guess.
 
-This Game consists of three levels Easy, Medium and Hard with different number of Lifes respectively.
+This Game consists of three levels. Namely Easy, Medium and Hard with different number of Lives respectively.
 
 ### ---> [Click here for a Live Demo ](https://cranky-varahamihira-be7361.netlify.app/)
 
